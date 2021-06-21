@@ -115,5 +115,5 @@ dmypy.json
 .pyre/
 
 # spreadsheet
-.csv
-.xls*
+*.csv
+*.xls*
